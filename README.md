@@ -1,2 +1,2 @@
-# consuldmo
+# consuldemo
 springcloud consul demo
